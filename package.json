@@ -1,0 +1,22 @@
+{
+  "name": "am02atm-machine",
+  "version": "1.1.6",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^5.0.2",
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
